@@ -1,0 +1,62 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Hamza Mekhzoum
+    - name: Label
+      value: PhD Researcher
+    - name: Email
+      value: hamza.mekhzoum@vub.be
+
+- title: Work
+  type: time_table
+  contents:
+    - title: PhD Researcher
+      institution: <a href="https://www.vub.be/">Vrije Universiteit Brussel</a>
+      year: 2022 - PRESENT
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Master of Sciences (M.Sc.)
+      institution: <a href="https://www.univ-rouen.fr/">University of Rouen</a>
+      year: 2020 - 2022
+      description:
+        - Machinery Intelligence
+    - title: Bachelor of Sciences (B.Sc.)
+      institution: <a href="http://www.um5.ac.ma/">Mohammed V University in Rabat</a>
+      year: 2018 - 2020
+      description:
+        - Applied Mathematics & Computer Science
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: <a href="https://arxiv.org/abs/2308.16139">MedShapeNet -- A Large-Scale Dataset of 3D Medical Shapes for Computer Vision</a>
+      year: 08/2023
+      description: arXiv
+    - title: <a href="http://dx.doi.org/10.14569/IJACSA.2022.01305111">End-to-End Car Make and Model Classification using Compound Scaling and Transfer Learning</a>
+      year: 05/2022
+      description: International Journal of Advanced Computer Science and Applications
+
+- title: Teaching Experience
+  type: nested_list
+  contents:
+    - title: TA at Vrije Universiteit Brussel
+      items:
+        - Biomedical Signals and Images (2021/2022, 2022/2023, 2024/2025)
+
+- title: Languages
+  type: nested_list
+  contents:
+    - title: Arabic
+      items:
+        - Native speaker
+
+    - title: English
+      items:
+        - Fluent
+
+    - title: French
+      items:
+        - Fluent
