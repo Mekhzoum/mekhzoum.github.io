@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mhamza.github.io/sitemap.xml
+Sitemap: https://mekhzoum.github.io/sitemap.xml
