@@ -19,5 +19,4 @@ I'am PhD researcher at the [Vrije Universiteit Brussel](https://www.vub.be/) wit
 
 Previously, I earned a Master’s in Machinery Intelligence, co-accredited with the [National Institute of Applied Sciences of Rouen](https://www.insa-rouen.fr/), from the [University of Rouen](https://www.univ-rouen.fr/), and a Bachelor's degree in Applied Mathematics & Computer Science from [Mohammed V University in Rabat](http://www.um5.ac.ma/).
 
-
 My interests extend broadly to Cryptography, Security, Trust, and Privacy.
