@@ -21,9 +21,7 @@ group :jekyll_plugins do
     #gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
-    gem 'wdm', '>= 0.1.0' if Gem.win_platform?
-    gem 'jekyll-toc'
-
+    gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :mswin]
 end
 group :other_plugins do
     gem 'css_parser'
