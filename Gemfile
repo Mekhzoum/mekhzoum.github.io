@@ -22,6 +22,7 @@ group :jekyll_plugins do
     gem 'unicode_utils'
     gem 'webrick'
     gem 'wdm', '>= 0.1.0', :platforms => [:mingw, :mswin]
+    gem 'faraday-retry'
 end
 group :other_plugins do
     gem 'css_parser'
