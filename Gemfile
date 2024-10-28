@@ -15,7 +15,7 @@ group :jekyll_plugins do
     gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-tabs'
-    #gem 'jekyll-toc'
+    gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     #gem 'mini_racer'
@@ -28,3 +28,4 @@ group :other_plugins do
     gem 'feedjira'
     gem 'httparty'
 end
+ 
